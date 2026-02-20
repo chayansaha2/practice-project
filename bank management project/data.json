@@ -1,0 +1,26 @@
+[
+    {
+        "name": "apon",
+        "age": 23,
+        "email": "chayan@gmail.com",
+        "pin": 4578,
+        "accountNo": "2XK#88N",
+        "balance": 7000
+    },
+    {
+        "name": "chayan saha ",
+        "age": 22,
+        "email": "aponsaha2303@gmail.com",
+        "pin": 1425,
+        "accountNo": "050GFJ",
+        "balance": 10000
+    },
+    {
+        "name": "arpon",
+        "age": 22,
+        "email": "arpon@gmail.com",
+        "pin": 2547,
+        "accountNo": "GH6R36",
+        "balance": 0
+    }
+]
